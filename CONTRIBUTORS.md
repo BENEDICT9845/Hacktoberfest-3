@@ -300,3 +300,9 @@
 - Bio: Student, Coder, Batman
 - GitHub: [aakash-hacks](https://github.com/aakash-hacks)
 
+#### Name: Prajwal Benedict A
+
+- Place: Mysore, Karnataka
+- Bio: Developer
+- GitHub: [Prajwal Benedict A](https://github.com/BENEDICT9845
+
